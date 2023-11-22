@@ -16,6 +16,10 @@ function AboutCard() {
             Additionally, I am currently employed as a software developer at
             Juspay.
             <br /> */}
+              <br /> I had recently completed my Masters of Computer Applications (MCA) from NCRD Sterling Institute of Management , Navi Mumbai.
+            <br />
+            
+            <br />
             <br />
             <br />
 
@@ -26,7 +30,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Listening Songs
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
