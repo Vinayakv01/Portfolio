@@ -4,6 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import biscard from "../../Assets/Projects/biscard.PNG";
 import urbandiners from "../../Assets/Projects/urbandiners.PNG";
+import buzzencer from "../../Assets/Projects/buzzencer.PNG";
+
 
 function Projects(r) {
   return (
@@ -36,6 +38,17 @@ function Projects(r) {
               description="A seamlessly efficient NFC-powered profile sharing solution, built with React.js, Node.js, SQL, and Tailwind CSS, facilitating effortless user profile exchange."
               ghLink="https://github.com/Vinayakv01/POS-Design.git"
               demoLink="https://testapp.urbandiners.com/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={buzzencer}
+              isBlog={false}
+              title="Buzzencer"
+              description="A seamlessly efficient NFC-powered profile sharing solution, built with React.js, Node.js, SQL, and Tailwind CSS, facilitating effortless user profile exchange."
+              ghLink="https://github.com/Vinayakv01"
+              demoLink="https://buzzencer.vercel.app/"
             />
           </Col>
 
