@@ -35,7 +35,7 @@ function Projects(r) {
               imgPath={urbandiners}
               isBlog={false}
               title="Urbandiners"
-              description="A seamlessly efficient NFC-powered profile sharing solution, built with React.js, Node.js, SQL, and Tailwind CSS, facilitating effortless user profile exchange."
+              description="Developed a modern Point of Sale (POS) systemfrontend using Vite + React, combining the efficiency of Vite's build tool and the flexibility of React for dynamic user interfaces."
               ghLink="https://github.com/Vinayakv01/POS-Design.git"
               demoLink="https://testapp.urbandiners.com/"
             />
@@ -46,7 +46,7 @@ function Projects(r) {
               imgPath={buzzencer}
               isBlog={false}
               title="Buzzencer"
-              description="A seamlessly efficient NFC-powered profile sharing solution, built with React.js, Node.js, SQL, and Tailwind CSS, facilitating effortless user profile exchange."
+              description="A Platform build using React , this is a marketplace form companies and influencers "
               ghLink="https://github.com/Vinayakv01"
               demoLink="https://buzzencer.vercel.app/"
             />
